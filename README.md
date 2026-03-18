@@ -17,10 +17,11 @@ To study mode characteristics of reflex klystron and hence to determine mode num
 9.	Cathode Ray Oscilloscope Scientech -801C
     
 **Experimental Setup:**
-
 <img width="840" height="274" alt="image" src="https://github.com/user-attachments/assets/eed0a769-b540-4330-b4a0-7fd63fa28ed4" />
 
+
 <img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/196f94fb-5b64-4092-8463-a17e7fce1548" />
+
 
 **Theory**
 
