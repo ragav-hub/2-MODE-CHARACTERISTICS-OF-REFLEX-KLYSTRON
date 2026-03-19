@@ -84,6 +84,7 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
 **Result:**
+
 Thus, The Output is verified successfully.   	
 			
 			
